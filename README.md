@@ -27,7 +27,7 @@
 ### 🛠️ My SKill Set
 
 - **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Kotlin, GoLang  
-- **Frontend:** HTML5, CSS3, React.js, Next.js, Angular.js, React Native  
+- **Frontend:** HTML5, CSS3, Tailwind, GSAP, React.js, Next.js, Angular.js, React Native  
 - **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
@@ -39,7 +39,7 @@
 
 - Travelling🚅✈️
 - Physical and Mental Fitness 💪
-- Sports 
+- Sports 🏏
 
 ---
 
