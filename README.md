@@ -33,6 +33,7 @@
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
 - **AI:** Machine Learning, Deep Learning, Computer Vision, NLP, LSTM, LLMs, Encoder-Decoder, Attention Mechanism, Transformers
+- **Soft Skills:** Teamwork, Leadership, Adaptability
 
 ---
 
