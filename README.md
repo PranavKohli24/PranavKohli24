@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi, I'm Pranav Kohli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi, I'm Pranav Kohli 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Grinding+DSA;Web,Android,Deep+Learning+Engineer" alt="Typing SVG" />
 </p>
@@ -29,11 +29,11 @@
 
 - **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Kotlin, GoLang  
 - **Frontend:** HTML5, CSS3, Tailwind, GSAP, React.js, Next.js, Angular.js, React Native  
-- **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
+- **Backend:** RESTful APIs, SpringBoot, Node.js, Express.js, Socket Programming 
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
 - **AI:** Machine Learning, Deep Learning, Computer Vision, NLP, LSTM, LLMs, Encoder-Decoder, Attention Mechanism, Transformers
-- **Soft Skills:** Teamwork, Leadership, Adaptability
+- **Soft Skills:** Teamwork, Problem-solving, Adaptability
 
 ---
 
