@@ -10,14 +10,15 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" >
 <!--     <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/> -->
     </td>
-    <td width="60%">
+    <td width="70%">
       
 ### 
 
 - 🎓 I'm a B.Tech student from **University School of Automation and Robotics, GGSIPU**, pursuing **Computer Science (AI & ML)**  
-- ✍🏻 Currently learning **Machine Learning** and **Full Stack Development**  
+- ✍🏻 Currently growing and learning **Full Stack Development**  and about **LLMs**
 - ✉️ How to reach me [Linkedin] (**https://www.linkedin.com/in/pranav-kohli-987aa5226/**)
-- ✉️ Email: kohlipranav24@gmail.com
+- ✉ Email: kohlipranav24@gmail.com or pranavkohli8@outlook.com
+- ☎️ Contact: +91-8860271737
 - ⚡ Fun fact I’m a workaholic, I don’t count hours, I align to **outcomes**!
 
     </td>
@@ -34,7 +35,7 @@
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
 - **AI:** Machine Learning, Deep Learning, Computer Vision, NLP, LSTM, LLMs, Encoder-Decoder, Attention Mechanism, Transformers
-- **Soft Skills:** Teamwork, Problem-solving, Adaptability
+- **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
 
 ---
 
