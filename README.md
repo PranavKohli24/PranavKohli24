@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi, I'm Pranav Kohli 👋</h1>
+<h1 align="center">Hi there, I'm Pranav Kohli 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Grinding+DSA;Web,Android,Deep+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Grinding+DSA" alt="Typing SVG" />
 </p>
 
 <table>
@@ -14,12 +14,15 @@
       
 ### 
 
-- 🎓 I'm a B.Tech student from **University School of Automation and Robotics, GGSIPU**, pursuing **Computer Science (AI & ML)**  
+- 🎓 Final-year **B.Tech** student at **USAR, GGSIPU** - majoring in Computer Science and **AIML**
+ 
 - ✍🏻 Currently growing and learning **Full Stack Development**  and about **LLMs**
-- ✉️ How to reach me [Linkedin] (**https://www.linkedin.com/in/pranav-kohli-987aa5226/**)
+-  Whether you've got a project, a role, or just want to connect, I'd love to hear from you [Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
+ 
 - ✉ Email: kohlipranav24@gmail.com or pranavkohli8@outlook.com
-- ☎️ Contact: +91-8860271737
+- ☎️ Ring at: +91 8860271737 (mobile)
 - ⚡ Fun fact I’m a workaholic, I don’t count hours, I align to **outcomes**!
+- yes, i'm human!
 
     </td>
   </tr>
@@ -27,9 +30,26 @@
 
 ---
 
-### 🛠️ My SKill Set
+---
 
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Kotlin, GoLang  
+###  📋 What I Bring to the Table
+
+<table>
+  <tr>
+    <td width="70%">
+     i have deep understanding of Data Structures and Algorithms (DSA), which i leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
+    </td>
+    <td width="30%">
+      <img src="https://github.com/PranavKohli24/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Skill Set
+
+- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Swift, GoLang  
 - **Frontend:** HTML5, CSS3, Tailwind, GSAP, React.js, Next.js, Angular.js, React Native  
 - **Backend:** RESTful APIs, SpringBoot, Node.js, Express.js, Socket Programming 
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
@@ -37,9 +57,10 @@
 - **AI:** Machine Learning, Deep Learning, Computer Vision, NLP, LSTM, LLMs, Encoder-Decoder, Attention Mechanism, Transformers
 - **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
 
+
 ---
 
-### Hobbies
+### Outside of academics
 
 - Travelling🚅✈️
 - Physical and Mental Fitness 💪
