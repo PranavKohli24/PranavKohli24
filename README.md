@@ -16,8 +16,8 @@
 
 - 🎓 Final-year **B.Tech** student at **USAR, GGSIPU** - majoring in Computer Science and **AIML**
  
-- ✍🏻 Currently growing and learning **Full Stack Development**  and about **LLMs**
--  Whether you've got a project, a role, or just want to connect, I'd love to hear from you [Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
+- ✍🏻 Expanding my skills in **Full Stack Development**  and learning about how **LLMs** and context works under the hood.
+-  Whether you've got a project, a role, or just want to connect, I'd love to hear from you -[Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
  
 - ✉ Email: kohlipranav24@gmail.com or pranavkohli8@outlook.com
 - ☎️ Ring at: +91 8860271737 (mobile)
@@ -27,8 +27,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ---
 
