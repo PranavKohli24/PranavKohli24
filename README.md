@@ -40,8 +40,9 @@
      i have deep understanding of Data Structures and Algorithms (DSA), which i leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
     </td>
     <td width="30%">
-      <img src="https://github.com/PranavKohli24/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
-    </td>
+  <img src="https://github.com/pranavkohli08/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
+</td>
+
   </tr>
 </table>
 
