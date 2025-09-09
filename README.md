@@ -68,5 +68,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PranavKohli24&color=blue&style=flat" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=PranavKohli24&color=87CEEB&style=flat" alt="Profile Views" />
+
 </p>
