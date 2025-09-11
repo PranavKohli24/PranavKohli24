@@ -6,20 +6,22 @@
 
 <table>
   <tr>
-    <td width="20%">
+    <td width="20%" >
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" >
 <!--     <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/> -->
     </td>
-    <td width="70%">
+    <td width="70%" vertical-align: top;">
       
 ### 
 
-- 🎓 Final-year **B.Tech** student at **USAR, GGSIPU** - majoring in Computer Science and **AIML**
+- 🎓 Final-year **B.Tech** student at USAR, GGSIPU - majoring in Computer Science and AIML
  
 - ✍🏻 Expanding my skills in **Full Stack Development**  and learning about how **LLMs** and context works under the hood.
 -  Whether you've got a project, a role, or just want to connect, I'd love to hear from you -[Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
  
-- ✉ Email: kohlipranav24@gmail.com or pranavkohli8@outlook.com
+- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="21" height="16"/>   Email: kohlipranav24@gmail.com or pranavkohli8@outlook.com
+
+
 - ☎️ Ring at: +91 8860271737 (mobile)
 - ⚡ Fun fact I’m a workaholic, I don’t count hours, I align to **outcomes**!
 - yes, i'm human!
@@ -35,14 +37,21 @@
 <table>
   <tr>
     <td width="70%">
-     i have deep understanding of Data Structures and Algorithms (DSA), which i leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
+      I have a deep understanding of Data Structures and Algorithms (DSA), which I leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
+      <br /><br />
+      <strong>My Coding Profiles:</strong><br />
+      <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> | 
+      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> | 
+      <a href="https://codestudio-infra.codingninjas.com/studio/profile/97a7e3e3-49ff-49a8-b6a6-bb7b2c9aa795" target="_blank">CodeStudio</a> | 
+      <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
+      <p>GitHub ('You are already here)</p>
     </td>
     <td width="30%">
-  <img src="https://github.com/pranavkohli08/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
-</td>
-
+      <img src="https://github.com/pranavkohli08/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
@@ -59,10 +68,10 @@
 
 ---
 
-### Outside of academics
+### Outside of academics, i like
 
 - Travelling🚅✈️
-- Physical and Mental Fitness 💪
+- Physical and Mental Fitness 💪🏼
 - Sports 🏏
 
 ---
