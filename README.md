@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="coding" width="320"  src="https://github.com/pranavkohli8/assets/blob/main/demogif_1.gif">
+<img align="right" alt="coding" width="320"  src="https://github.com/PranavKohli24/PranavKohli24/blob/main/demovideo.gif">
 
 <p align="left"> ‎ </p>
 
