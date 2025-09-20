@@ -34,8 +34,8 @@
       I have a deep understanding of Data Structures and Algorithms (DSA), which I leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
       <br /><br />
       <strong>My Coding Profiles:</strong><br />
-      <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> | 
-      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> | 
+      <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
+      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert) | 
       <a href="https://codestudio-infra.codingninjas.com/studio/profile/97a7e3e3-49ff-49a8-b6a6-bb7b2c9aa795" target="_blank">CodeStudio</a> | 
       <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
       <p> GitHub ('You are already here)</p>
