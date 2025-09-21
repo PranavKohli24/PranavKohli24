@@ -39,6 +39,8 @@
       <a href="https://codestudio-infra.codingninjas.com/studio/profile/97a7e3e3-49ff-49a8-b6a6-bb7b2c9aa795" target="_blank">CodeStudio</a> | 
       <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
       <p> GitHub ('You are already here)</p>
+      <strong>Mathematics/problem-solving profile</strong>
+      <a href="https://projecteuler.net/profile/pranavkohli.png">Project Euler</a>
     </td>
     <td width="20%">
       <img src="https://github.com/pranavkohli08/assets/raw/main/Screenshot%202025-09-01%20203251.png" alt="Snapshot" width="250" height="250" />
