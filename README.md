@@ -19,7 +19,7 @@
 
 
 - ☎️ Number: +91 8860271737 (mobile)
-- a trait of me: i feel joy, euphoria whenever i finally get to the solution.
+- A trait of me: i feel joy, euphoria whenever i finally get to the solution.
 - yes, i'm human!
 
    
