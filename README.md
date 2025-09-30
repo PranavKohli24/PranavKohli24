@@ -53,10 +53,10 @@
 
 ### 🛠️ My Skill Set
 
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Swift, GoLang  
+- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, GoLang  
 - **Frontend:** HTML5, CSS3, Tailwind, GSAP, React.js, Next.js, Angular.js, React Native  
-- **Backend:** RESTful APIs, SpringBoot, Node.js, Express.js, Socket Programming 
-- **Database:** MySQL, MongoDB, Firebase, PostgreSQL, ASTRADB  
+- **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
+- **Database:** MySQL, MongoDB, Firebase, Postgre, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
 - **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Encoder-Decoder, Attention Mechanism, Transformers, LLMs
 - **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
