@@ -12,7 +12,7 @@
 
 - 🎓  I'm a recent **B.Tech** graduate from USAR, GGSIPU with major in Computer Science and AIML
  
-- ✍🏻 I'm learning **full stack development** and Deep Learning
+- ✍🏻 I'm learning **Full stack development** and Deep Learning
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you -[Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
  
 - <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="21" height="16"/>   Email: hey@pranavkohli.me
@@ -53,12 +53,12 @@
 
 ### 🛠️ My Skill Set
 
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, GoLang  
-- **Frontend:** HTML5, CSS3, Tailwind, GSAP, React.js, Next.js, Angular.js, React Native  
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, GoLang  
+- **Frontend:** React.js,  Next.js, Angular.js, React Native, Tailwind, GSAP, Redux, Zustand
 - **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
-- **Database:** MySQL, MongoDB, Firebase, Postgre, ASTRADB  
+- **Database:** MySQL, MongoDB, Firebase, Postgres, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
-- **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Encoder-Decoder, Attention Mechanism, Transformers, LLMs
+- **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Attention Mechanism, Transformers, LLMs
 - **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
 
 
