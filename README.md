@@ -15,10 +15,9 @@
 - ✍🏻 I'm learning **Full stack development** and Deep Learning
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you -[Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
  
-- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="21" height="16"/>   Email: hey@pranavkohli.me
+- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="21" height="18"/>   Mail: hey@pranavkohli.me
 
 
-- ☎️ Number: +91 8860271737 (mobile)
 - A trait of me: i feel joy, euphoria whenever i finally get to the solution.
 - yes, i'm human!
 
