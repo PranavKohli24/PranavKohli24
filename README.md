@@ -30,7 +30,9 @@
 <table>
   <tr>
     <td width="70%">
-      I have a deep understanding of Data Structures and Algorithms (DSA), which I leverage to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
+      I am passionate about what i do. <br/>
+      I have a deep understanding of Data Structures and Algorithms (DSA), which I use to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
+      And when something's broken, I dont wait to be asked; i just fix it
       <br /><br />
       <strong>My Coding Profiles:</strong><br />
       <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
