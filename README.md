@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <h1> 👋 Hi , I'm Pranav Kohli</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Grinding+DSA"     alt="Typing SVG" width="38%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building"     alt="Typing SVG" width="38%"/>
 </p>
 
 
@@ -13,17 +13,21 @@
 - 🎓  I'm a recent **B.Tech** graduate from USAR, GGSIPU with major in Computer Science and AIML
  
 - ✍🏻 I'm learning **Full stack development** and Deep Learning
-- :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you -[Contact](https://www.linkedin.com/in/pranav-kohli-987aa5226/)
- 
-- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="21" height="18"/>   Mail: hey@pranavkohli.me
+- :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you
+- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="18" height="20"/>   Mail: hey@pranavkohli.me
 
 
 - A trait of me: i feel joy, euphoria whenever i finally get to the solution.
 - yes, i'm human!
-
    
 
 ---
+
+<p align="center">
+  <a href="https://pranavkohli.me" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=1a1a1a&color=1B2A4E" alt="Talk to my digital version here :)" style="height: 32px; border-radius: 8px;" />
+  </a>
+</p>
 
 ###  📋 What I Bring to the Table
 
@@ -50,16 +54,17 @@
 </table>
 
 
+
 ---
 
 ### 🛠️ My Skill Set
 
-- **Languages:** C++, Java, Python, JavaScript, TypeScript, GoLang  
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, Swift
 - **Frontend:** React.js,  Next.js, Angular.js, React Native, Tailwind, GSAP, Redux, Zustand
 - **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
 - **Database:** MySQL, MongoDB, Firebase, Postgres, ASTRADB  
 - **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
-- **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Attention Mechanism, Transformers, LLMs
+- **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Attention Mechanism, Transformers, LLMs, RAG
 - **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
 
 
@@ -67,6 +72,7 @@
 
 ### Outside of academics, i like
 
+- Space and Technology 🧑‍🚀🌌
 - Travelling🚅✈️
 - Physical and Mental Fitness 💪🏼
 - Sports 🏏
