@@ -23,11 +23,21 @@
 
 ---
 
-<p align="center">
-  <a href="https://pranavkohli.me" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=1a1a1a&color=1B2A4E" alt="Talk to my digital version here :)" style="height: 32px; border-radius: 8px;" />
+<p>
+  <a href="https://pranavkohli.me">
+    <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=1a1a1a&color=FF6B35" alt="Talk to my digital version here :)" />
+    
   </a>
-</p>
+  </p>
+  <p>
+  <a href="https://pranavkohli.me" target="_blank">
+    <img src="project_thumbnail.png" alt="Digital Version Demo" height="380" width="380"/>
+  </a>
+  </p>
+
+
+---
+
 
 ###  📋 What I Bring to the Table
 
