@@ -10,7 +10,7 @@
 
 <p align="left"> ‎ </p>
 
-- 🎓  I'm a recent **B.Tech** graduate from USAR, GGSIPU with major in Computer Science and AIML
+- 🎓  I'm a recent **B.Tech** graduate with major in Computer Science and AIML
  
 - ✍🏻 I'm learning **Full stack development** and Deep Learning
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you
@@ -18,7 +18,7 @@
 
 
 - A trait of me: i feel joy, euphoria whenever i finally get to the solution.
-- yes, i'm human!
+- and yes, i'm human!
    
 
 ---
