@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 <h1> 👋 Hi , I'm Pranav Kohli</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building"     alt="Typing SVG" width="38%"/>
 </p>
-
+ -->
 
 
 <img align="right" alt="coding" width="320"  src="https://github.com/PranavKohli24/PranavKohli24/blob/main/demovideo.gif">
@@ -11,10 +11,10 @@
 <p align="left"> ‎ </p>
 
 - 🎓  I'm a recent **B.Tech** graduate with major in Computer Science and AIML
- 
-- ✍🏻 I'm learning **Full stack development** and Deep Learning
+
+- ✍🏻 Recently, I have been dedicating my time to learning about neural networks and LLMs
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you
-- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="18" height="20"/>   Mail: hey@pranavkohli.me
+- <img src="https://img.icons8.com/ios/30/B6BCC2/new-post.png" width="18" height="18"/>   Reach me at: hey@pranavkohli.me
 
 
 - A trait of me: i feel joy, euphoria whenever i finally get to the solution.
@@ -50,7 +50,7 @@
       <br /><br />
       <strong>My Coding Profiles:</strong><br />
       <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
-      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert) | 
+      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert - 1610 max) | 
       <a href="https://codestudio-infra.codingninjas.com/studio/profile/97a7e3e3-49ff-49a8-b6a6-bb7b2c9aa795" target="_blank">CodeStudio</a> | 
       <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
       <p> GitHub ('You are already here)</p>
@@ -63,19 +63,6 @@
   </tr>
 </table>
 
-
-
----
-
-### 🛠️ My Skill Set
-
-- **Languages:** C++, Java, Python, JavaScript, TypeScript, Swift
-- **Frontend:** React.js,  Next.js, Angular.js, React Native, Tailwind, GSAP, Redux, Zustand
-- **Backend:** RESTful APIs, Node.js, Express.js, Socket Programming 
-- **Database:** MySQL, MongoDB, Firebase, Postgres, ASTRADB  
-- **Tools:** Git, GitHub, VS Code, Postman, Android Studio, Xcode  
-- **AI:** Machine Learning, Neural Networks, Computer Vision, NLP, LSTM, Attention Mechanism, Transformers, LLMs, RAG
-- **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability
 
 
 ---
