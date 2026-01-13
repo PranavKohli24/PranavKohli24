@@ -47,13 +47,14 @@
       I am passionate about what i do. <br/>
       I have a deep understanding of Data Structures and Algorithms (DSA), which I use to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
       And when something's broken, I dont wait to be asked; i just fix it
-      <br /><br />
+      <br/> <br/>
+        Give me a week, I'll be contributing. Give me a month, I'll be adding value.
+      <br /><br /><br/>
       <strong>My Coding Profiles:</strong><br />
       <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
       <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert - 1610 max) | 
-      <a href="https://codestudio-infra.codingninjas.com/studio/profile/97a7e3e3-49ff-49a8-b6a6-bb7b2c9aa795" target="_blank">CodeStudio</a> | 
       <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
-      <p> GitHub ('You are already here)</p>
+      <p> GitHub ('You're already here)</p>
       <strong>Mathematics/problem-solving profile</strong>
       <a href="https://projecteuler.net/profile/pranavkohli.png">Project Euler</a>
     </td>
