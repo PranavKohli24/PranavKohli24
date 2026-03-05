@@ -48,7 +48,7 @@
       I have a deep understanding of Data Structures and Algorithms (DSA), which I use to optimize performance, solve complex problems, and enhance the scalability and efficiency of applications.
       And when something's broken, I dont wait to be asked; i just fix it
       <br/> <br/>
-        Give me a week, I'll be contributing. Give me a month, I'll be adding value.
+        
       <br /><br /><br/>
       <strong>My Coding Profiles:</strong><br />
       <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
