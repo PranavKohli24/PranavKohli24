@@ -25,7 +25,7 @@
 
 <p>
   <a href="https://pranavkohli.me">
-    <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=1a1a1a&color=FF6B35" alt="Talk to my digital version here :)" />
+    <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=2C2C2C&color=4B5563" alt="Talk to my digital version here :)" />
     
   </a>
   </p>
