@@ -10,7 +10,7 @@
 
 <p align="left"> ‎ </p>
 
-- 🎓  I'm a recent **B.Tech** graduate with major in Computer Science and AIML
+- I have keen eye for product and UX, and always thinking about why and how to make a product better
 
 - ✍🏻 Recently, I have been dedicating my time to learning about neural networks and LLMs
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you
