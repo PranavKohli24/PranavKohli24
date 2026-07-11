@@ -10,7 +10,7 @@
 
 <p align="left"> ‎ </p>
 
-- I have keen eye for product and UX, and always thinking about why and how to make a product better
+- I have keen eye for product and UX, and always thinking about the why behind what we build and how to make a product better and best possible
 
 - ✍🏻 Recently, I have been dedicating my time to learning about neural networks and LLMs
 - :octocat: Whether you've got a project, a role, or just want to discuss ideas, I'd love to hear from you
