@@ -24,14 +24,14 @@
 ---
 
 <p>
-  <a href="https://pranavkohli.me">
+  <a href="https://pranavkohli.me/twin">
     <img src="https://img.shields.io/badge/💬_Talk_to_my_digital_version_here-1B2A4E?style=for-the-badge&labelColor=2C2C2C&color=4B5563" alt="Talk to my digital version here :)" />
     
   </a>
   </p>
   <p>
-  <a href="https://pranavkohli.me" target="_blank">
-    <img src="project_thumbnail.png" alt="Digital Version Demo" height="380" width="380"/>
+  <a href="https://pranavkohli.me/twin" target="_blank">
+    <img src="project_demo.jpeg" alt="Digital Version Demo" height="600" width="400"/>
   </a>
   </p>
 
