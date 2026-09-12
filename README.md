@@ -52,7 +52,7 @@
       <br /><br /><br/>
       <strong>My Coding Profiles:</strong><br />
       <a href="https://www.geeksforgeeks.org/user/pranavkohli/" target="_blank">GeeksforGeeks</a> (600+ problems solved) | 
-      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert - 1610 max) | 
+      <a href="https://codeforces.com/profile/pranavkohli_" target="_blank">Codeforces</a> (Expert - 1672 max) | 
       <a href="https://www.kaggle.com/pranavkohli2410" target="_blank">Kaggle</a> |
       <p> GitHub ('You're already here)</p>
       <strong>Mathematics/problem-solving profile</strong>
