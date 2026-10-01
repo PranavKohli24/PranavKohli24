@@ -31,14 +31,4 @@ If you have a project, a role, or just want to talk ideas, reach me on [LinkedIn
       600+ problems solved
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://www.kaggle.com/pranavkohli2410"><b>Kaggle</b></a><br/>
-      Data science and ML
-    </td>
-    <td width="50%">
-      <a href="https://projecteuler.net/progress=pranavkohli"><b>Project Euler</b></a><br/>
-      Math and problem-solving
-    </td>
-  </tr>
 </table>
