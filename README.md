@@ -4,13 +4,41 @@ Developer with an eye for product and UX, always asking *why* we build something
 
 If you have a project, a role, or just want to talk ideas, reach me on [LinkedIn](https://linkedin.com/in/pranavkohli24).
 
-[![Talk to my digital twin](https://img.shields.io/badge/💬_Talk_to_my_digital_version-1B2A4E?style=for-the-badge&labelColor=2C2C2C&color=4B5563)](https://pranavkohli24.github.io/#twin)
+<table>
+  <tr>
+    <td>
+      <b>Talk to my digital twin</b><br/>
+      A digital version of me. Ask about my projects, skills, or how I think.<br/><br/>
+      <a href="https://pranavkohli24.github.io/#twin">
+        <img src="https://img.shields.io/badge/Start_a_conversation-%E2%86%92-0F172A?style=flat-square&labelColor=1E293B" alt="Start a conversation" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Coding profiles
 
-- [Codeforces](https://codeforces.com/profile/pranavkohli_): Expert (max 1672)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/pranavkohli/): 600+ problems solved
-- [Kaggle](https://www.kaggle.com/pranavkohli2410)
-- [Project Euler](https://projecteuler.net/progress=pranavkohli)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://codeforces.com/profile/pranavkohli_"><b>Codeforces</b></a><br/>
+      Expert (max 1672)
+    </td>
+    <td width="50%">
+      <a href="https://www.geeksforgeeks.org/user/pranavkohli/"><b>GeeksforGeeks</b></a><br/>
+      600+ problems solved
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.kaggle.com/pranavkohli2410"><b>Kaggle</b></a><br/>
+      Data science and ML
+    </td>
+    <td width="50%">
+      <a href="https://projecteuler.net/progress=pranavkohli"><b>Project Euler</b></a><br/>
+      Math and problem-solving
+    </td>
+  </tr>
+</table>
